@@ -15,10 +15,6 @@ A [CVE-2022-29464](https://docs.wso2.com/display/Security/Security+Advisory+WSO2
 # PoC
 
 *Aviso: Apenas para fins educativos.*
-## Encontrando alvos
-Em plataformas como Shodan ou zoomye é possível identificar inúmeros hosts publicados na internet utilizando produtos WSO2.
-
-![Shodan](/imagens/shodan.png?raw=true "Shodan")
 
 ## Baixe o exploit
 Clone este repositório:
